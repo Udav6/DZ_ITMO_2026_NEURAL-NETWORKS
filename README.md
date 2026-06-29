@@ -1,2 +1,0 @@
-# DZ_ITMO_2026_NEURAL-NETWORKS
-3 homeworks
